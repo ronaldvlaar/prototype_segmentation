@@ -1,0 +1,3 @@
+[submodule "proto-segmentation"]
+    path = proto-segmentation
+    url = https://github.com/ronaldvlaar/proto-segmentation.git
